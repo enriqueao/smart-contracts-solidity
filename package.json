@@ -1,0 +1,25 @@
+{
+    "name": "Deka-token",
+    "version": "0.1.0",
+    "description": "Deka token",
+    "license": "GPL-3.0",
+    "homepage": "https://dekachain.com",
+    "devDependencies": {
+        "async": "^2.4.0",
+        "bignumber.js": "^4.0.2",
+        "ethereumjs-testrpc": "^3.9.2",
+        "random-bytes": "^1.0.0",
+        "truffle": "^4.0.1",
+        "truffle-hdwallet-provider": "0.0.3",
+        "web3": "^0.18.4"
+    },
+    "dependencies": {},
+    "main": "truffle.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "David Ortega"
+}
